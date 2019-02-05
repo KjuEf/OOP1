@@ -1,0 +1,7 @@
+C:\Users\KjuEf\Desktop\c#\carcalss\carcalss\bin\Debug\carcalss.exe.config
+C:\Users\KjuEf\Desktop\c#\carcalss\carcalss\bin\Debug\carcalss.exe
+C:\Users\KjuEf\Desktop\c#\carcalss\carcalss\bin\Debug\carcalss.pdb
+C:\Users\KjuEf\Desktop\c#\carcalss\carcalss\obj\Debug\carcalss.csprojAssemblyReference.cache
+C:\Users\KjuEf\Desktop\c#\carcalss\carcalss\obj\Debug\carcalss.csproj.CoreCompileInputs.cache
+C:\Users\KjuEf\Desktop\c#\carcalss\carcalss\obj\Debug\carcalss.exe
+C:\Users\KjuEf\Desktop\c#\carcalss\carcalss\obj\Debug\carcalss.pdb
